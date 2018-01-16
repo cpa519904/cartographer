@@ -1,3 +1,5 @@
+Cartographer，是Google开源的一个ROS系统支持的2D和3D SLAM（simultaneous localization and mapping）库。SLAM 算法结合来自多个传感器（比如，LIDAR、IMU 和 摄像头）的数据，同步计算传感器的位置并绘制传感器周围的环境。在产业界和学术界常见的传感器配置上，Cartographer 能实时建立全局一致的地图。
+
 .. Copyright 2016 The Cartographer Authors
 
 .. Licensed under the Apache License, Version 2.0 (the "License");
